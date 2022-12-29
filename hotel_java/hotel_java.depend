@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672327365 source:c:\users\asdf\desktop\codeblocks\hotel_java\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+
